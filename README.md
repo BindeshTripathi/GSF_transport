@@ -1,5 +1,5 @@
 ## Fig_6_code_implementation.ipynb
-Closure model is implemented in python to predict transport for all (r, Pr) in Fig. 6; see the file entitled "fig_6_code_implementation.ipynb".
+Closure model is implemented in python to predict transport for all (r, Pr) in Fig. 6; see the file entitled "Fig_6_code_implementation.ipynb".
 
 
 ## GSF_r_Pr_scan__Shear_eq_3.h5
