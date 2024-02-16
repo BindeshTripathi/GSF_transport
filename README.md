@@ -15,5 +15,5 @@ Pr_exp = np.linspace(0.02, 7, 28)
 Pr_array = 10**(-Pr_exp) #These are the values of Pr for which the transport is computed.
 
 r_exp = np.linspace(0.02, 5, 20)
-r_array  = 10**(-r_exp)  #These are the values of r for which the transport is computed.
+r_array  = 10**(-r_exp)  #These are the values of  r for which the transport is computed.
 ```
