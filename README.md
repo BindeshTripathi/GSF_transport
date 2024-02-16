@@ -1,9 +1,9 @@
 ## Fig_6_code_implementation.ipynb
-Closure model is implemented in python to predict transport for all (r, Pr) in Fig. 6; see the file entitled "Fig_6_code_implementation.ipynb".
+This notebook presents implementation of our closure model in python to predict turbulent transport for all $(r, \mathrm{Pr})$ in Fig. 6(a).
 
 
 ## GSF_r_Pr_scan__Shear_eq_3.h5
-This file contains data output from the (r,Pr)-scan of the closure model, obtained using "Fig_6_code_implementation.ipynb".  The h5 data file can be read using the following lines of code:
+This file contains data output from the $(r, \mathrm{Pr})$-scan of the closure model, obtained using "Fig_6_code_implementation.ipynb".  The h5 data file can be simply read using the following lines of code:
 
 ```
 import h5py
