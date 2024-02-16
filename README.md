@@ -3,7 +3,7 @@ Closure model is implemented in python to predict transport for all (r, Pr) in F
 
 
 ## GSF_r_Pr_scan__Shear_eq_3.h5
-The data output from the (r,Pr)-scan of the closure model is saved in the file named "GSF_r_Pr_scan__Shear_eq_3.h5".  The h5 file can be read by using the following lines of code:
+This file contains data output from the (r,Pr)-scan of the closure model, obtained using "Fig_6_code_implementation.ipynb".  The h5 data file can be read by using the following lines of code:
 
 ```
 import h5py
